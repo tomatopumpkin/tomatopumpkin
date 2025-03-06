@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm NAMMON 🤩
 
 <!--
-**tomatopumpkin/tomatopumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tomatopumpkin/tomatopumpkin** is a ✨ _special_s ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
