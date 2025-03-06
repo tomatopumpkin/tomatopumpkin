@@ -1,4 +1,4 @@
-## Hey, booo 🤓
+## Hey! Y'allll😎
 
 <!--
 **tomatopumpkin/tomatopumpkin** is a ✨ _special_s ✨ repository because its `README.md` (this file) appears on your GitHub profile.
