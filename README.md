@@ -1,4 +1,4 @@
-##                                             Hey! Y'allll😎
+## Hey! Y'allll😎
 
 
 **tomatopumpkin/tomatopumpkin** is a ✨ _special_s ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 💌 How to reach me: vimonsiri.ka@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ My website : https://wimonsiri5257.wixsite.com/resume
