@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 💌 How to reach me: vimonsiri.ka@gmail.com
 - 😄 Pronouns: ...
-- ⚡ My website :
+- ⚡5 My website :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatopumpkin)](https://github.com/tomatopumpkin/github-readme-stats)
