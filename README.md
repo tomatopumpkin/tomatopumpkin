@@ -1,6 +1,9 @@
 ## Hey! Y'allll😎
 
-📓 Graduted infomation techology BS. at the University of KMUTNB, Thailand
+📓 Graduted Bachelor of Science Information Technology at the King Mongkut's University Of Technology  
+North Bangkok<br/>
+👀 Making content about study, tech, and productivity on [instagram](https://www.instagram.com/axqumax/)<br/>
+
 - 💌 How to reach me: vimonsiri.ka@gmail.com
 
   
