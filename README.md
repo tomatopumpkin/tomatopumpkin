@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡5 My website :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatopumpkin&layout=compact)
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatopumpkin&layout=compact"/>
