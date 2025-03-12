@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡5 My website :
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatopumpkin&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/tomatopumpkin/github-readme-stats)
+
 <img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatopumpkin&layout=compact"/>
