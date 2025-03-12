@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💌 How to reach me: vimonsiri.ka@gmail.com
 - 😄 Pronouns: ...
 - ⚡5 My website :
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/tomatopumpkin/github-readme-stats)
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatopumpkin&hide=contribs,prs)
 <img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatopumpkin&layout=compact"/>
