@@ -1,5 +1,6 @@
 ## Hey! Y'allll😎
 
+📓 Graduted infomation techology BS. at the University of KMUTNB, Thailand
 - 💌 How to reach me: vimonsiri.ka@gmail.com
 
   
